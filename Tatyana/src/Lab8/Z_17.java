@@ -11,8 +11,6 @@ public class Z_17 {
 
         int b=str.nextInt();
 
-
-
         int s = 0;
         for (int i = 0; i < numArr.length; i++) {
             if(numArr[i]<b){
